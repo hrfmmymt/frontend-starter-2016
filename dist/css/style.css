@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+div {
+  -webkit-animation: my-animation .2s linear;
+          animation: my-animation .2s linear;
+  font: 18px "Helvetica", "Arial", sans-serif;
+}
+
+div p {
+  color: #f00;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uL3NyYy9jc3Mvc3R5bGUuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLGlCQUFpQjs7QUFPakI7RUFDRSwyQ0FBbUM7VUFBbkMsbUNBQW1DO0VBQ25DLDRDQUFxQjtDQUl0Qjs7QUFIQztFQUNFLFlBQW9CO0NBQ3JCIiwiZmlsZSI6InN0eWxlLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIkBjaGFyc2V0IFwidXRmLThcIjtcblxuOnJvb3Qge1xuICAtLW15LWZvbnQ6IDE4cHggXCJIZWx2ZXRpY2FcIiwgXCJBcmlhbFwiLCBzYW5zLXNlcmlmO1xuICAtLWNvbG9yOiAjZjAwO1xufVxuXG5kaXYge1xuICBhbmltYXRpb246IG15LWFuaW1hdGlvbiAuMnMgbGluZWFyO1xuICBmb250OiB2YXIoLS1teS1mb250KTtcbiAgJiBwIHtcbiAgICBjb2xvcjogdmFyKC0tY29sb3IpO1xuICB9XG59Il19 */
